@@ -1,4 +1,4 @@
-# notehiveproject
+# Note App
 
 A new Flutter project.
 
